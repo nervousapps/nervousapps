@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/xtreemechill"><img src="https://api.daily.dev/devcards/d2ae051e8d5c45b8bb13d2016e58254c.png?r=cec" width="400" alt="Achille Pénet's Dev Card"/></a>
+
+![snake svg]
+(https://github.com/nervousapps/nervousapps/blob/output/github-contribution-grid-snake.svg)
