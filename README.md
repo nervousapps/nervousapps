@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Banner](https://www.canva.com/design/DAGDgiCS6vc/gHEAMYKNHS9OOLlrT4_tXw/watch)](https://www.canva.com/design/DAGDgiCS6vc/gHEAMYKNHS9OOLlrT4_tXw/watch)
-
-
-
 <h1 align="center">Hi 👋, I'm Achille</h1>
 <h3 align="center">A passionate fullstack developer and DIY enthusiast from France</h3>
 
