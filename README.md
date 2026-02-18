@@ -31,7 +31,7 @@
 ### 🚀 About Me
 
 - 🛠️ I love building things, from web apps to hardware hacks.
-- 🎛️ Currently working on a new sampler module based on Teensy.
+- 🎛️ Eurorack artisan, music maker.
 - 🧰 Always tinkering with new tech, frameworks, and DIY projects.
 - 🌱 Lifelong learner, always up for a challenge!
 
@@ -74,4 +74,4 @@
 
 ---
 
-<h3 align="center">🔭 I’m currently working on a new sampler module based on Teensy</h3>
+<h3 align="center">🔭 I’m currently working on a new 6 channels mixer module</h3>
